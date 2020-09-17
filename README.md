@@ -20,7 +20,7 @@
 <h3> 🤝🏻 Me encontre </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/talles-barbosa-a5319610b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Talles%Barbosa%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/talles-barbosa-a5319610b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Talles%20Barbosa-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/barbosastalles/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-barbosastalles_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:barbosatalles9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-barbosatalles9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
