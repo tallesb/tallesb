@@ -1,18 +1,17 @@
-<h2> Olá! Eu sou Talles.</h2>
+<h2> Oi! Eu sou Talles.</h2>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias para soluções mobile e web.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na Faculdade Estácio.
+- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas na Faculdade Estácio.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Mobile.
-- 🌱 &nbsp; Aprendendo sobre Desenvolvimento para dispositivos móveis e web, além de devops.
-- ✍️ &nbsp; Curto programar e praticas esportes nas horas vagas.
+- 🌱 &nbsp; Aprendendo sobre Desenvolvimento para dispositivos móveis e web.
+- ✍️ &nbsp; Curto programar e praticar esportes nas horas vagas.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Java | Dart
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | React Native | Flutter
-- 🛢 &nbsp; Postgres
+- 💻 &nbsp; Javascript | Java
+- 🌐 &nbsp; JavaScript | Node.js | React Native
 - 🔧 &nbsp; Git
 
 <br/>
